@@ -18,6 +18,7 @@ public class FindPolindrome
 	  else
 	  {
 		  System.out.println("String is not polindrome");
+		  System.out.println("String is polindrome good");
 	  }
   }
 	public static void main(String[] args) {
