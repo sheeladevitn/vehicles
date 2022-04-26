@@ -13,6 +13,7 @@ public class FindPolindrome
 	  if (str.equals(s))
 	  {
 		  System.out.println("String is polindrome");
+		  System.out.println("String is polindrome good");
 	  }
 	  else
 	  {
